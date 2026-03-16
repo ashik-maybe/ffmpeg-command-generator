@@ -9,8 +9,6 @@
 
 A beautiful, hyper-responsive webapp that lets you graphically select options and generates ready-to-use FFmpeg commands. Copy, paste, done!
 
-![FFmpeg Command Generator](https://via.placeholder.com/800x450/1e1e2e/fab387?text=FFmpeg+Command+Generator)
-
 ---
 
 ## ✨ Features
