@@ -22,7 +22,7 @@
   --font-mono: 'JetBrains Mono', 'SF Mono', Menlo, monospace;
 }
 
-[data-theme="mocha"] {
+[data-theme="dark"] {
   --bg: #000000;
   --surface: #1d1d1f;
   --border: rgba(255, 255, 255, 0.15);
@@ -95,10 +95,9 @@ body {
   justify-content: center;
 }
 
-.logo-icon svg {
-  width: 20px;
-  height: 20px;
-  fill: white;
+.logo-icon i {
+  color: white;
+  font-size: 18px;
 }
 
 .app-header h1 {
@@ -126,11 +125,11 @@ body {
   background: var(--accent-light);
 }
 
-.theme-toggle svg {
+.theme-toggle i {
   transition: transform 0.3s ease;
 }
 
-.theme-toggle:hover svg {
+.theme-toggle:hover i {
   transform: rotate(15deg);
 }
 
@@ -157,9 +156,8 @@ body {
   gap: 0.5rem;
 }
 
-.tab-btn svg {
-  width: 16px;
-  height: 16px;
+.tab-btn i {
+  font-size: 14px;
   opacity: 0.7;
 }
 
@@ -174,7 +172,7 @@ body {
   border-color: var(--accent);
 }
 
-.tab-btn.active svg {
+.tab-btn.active i {
   opacity: 1;
 }
 
@@ -201,8 +199,9 @@ body {
   gap: 0.75rem;
 }
 
-.form-header svg {
+.form-header i {
   color: var(--accent);
+  font-size: 18px;
 }
 
 .form-header h2 {
@@ -363,7 +362,7 @@ body {
   gap: 0.5rem;
 }
 
-.command-header h3 svg {
+.command-header h3 i {
   color: var(--accent);
 }
 
@@ -481,7 +480,7 @@ body {
   display: none;
 }
 
-.usage-section summary svg {
+.usage-section summary i {
   color: var(--accent);
 }
 
@@ -547,9 +546,8 @@ body {
     height: 32px;
   }
   
-  .logo-icon svg {
-    width: 18px;
-    height: 18px;
+  .logo-icon i {
+    font-size: 16px;
   }
   
   .app-header h1 {
@@ -570,9 +568,8 @@ body {
     display: none;
   }
   
-  .tab-btn svg {
-    width: 18px;
-    height: 18px;
+  .tab-btn i {
+    font-size: 18px;
   }
   
   .form-section {
