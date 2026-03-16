@@ -1,8 +1,6 @@
 # FFmpeg Command Generator
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mocha-1e1e2e?style=for-the-badge&logoColor=fab387" alt="Catppuccin Mocha">
-  <img src="https://img.shields.io/badge/Latte-eff1f5?style=for-the-badge&logoColor=fe640b" alt="Catppuccin Latte">
   <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logoColor=white" alt="Bun">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logoColor=white" alt="Vite">
 </p>
