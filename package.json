@@ -1,0 +1,26 @@
+{
+  "name": "ffmpeg-command-generator",
+  "version": "1.0.0",
+  "description": "A beautiful webapp to generate FFmpeg commands with a graphical interface",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "ffmpeg",
+    "video",
+    "audio",
+    "converter",
+    "generator",
+    "cli",
+    "tool"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^8.0.0"
+  }
+}
